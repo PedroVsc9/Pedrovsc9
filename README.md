@@ -1,4 +1,3 @@
-## Joãopedrovsc9
 <div align="center">
 
 # João Pedro de Paiva Vasconcelos Neto
@@ -35,9 +34,9 @@ $ cypress run --headless → 0 failures
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroVsc9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&icon_color=5DCAA5&text_color=8b949e)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroVsc9&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&icon_color=5DCAA5&text_color=8b949e)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVsc9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&text_color=8b949e)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroVsc9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&text_color=8b949e)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PedroVsc9&theme=github-dark-blue&hide_border=true&background=0d1117&ring=5DCAA5&fire=5DCAA5&currStreakLabel=5DCAA5)
 
@@ -49,9 +48,9 @@ $ cypress run --headless → 0 failures
 
 <div align="center">
 
-[![cypress-login-automation](https://github-readme-stats.vercel.app/api/pin/?username=PedroVsc9&repo=cypress-login-automation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&icon_color=5DCAA5)](https://github.com/PedroVsc9/cypress-login-automation)
-[![watchdog-qa](https://github-readme-stats.vercel.app/api/pin/?username=PedroVsc9&repo=watchdog-qa&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&icon_color=5DCAA5)](https://github.com/PedroVsc9/watchdog-qa)
-[![api-performance-testing](https://github-readme-stats.vercel.app/api/pin/?username=PedroVsc9&repo=api-performance-testing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&icon_color=5DCAA5)](https://github.com/PedroVsc9/api-performance-testing)
+[![cypress-login-automation](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PedroVsc9&repo=cypress-login-automation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&icon_color=5DCAA5)](https://github.com/PedroVsc9/cypress-login-automation)
+[![watchdog-qa](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PedroVsc9&repo=watchdog-qa&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&icon_color=5DCAA5)](https://github.com/PedroVsc9/watchdog-qa)
+[![api-performance-testing](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PedroVsc9&repo=api-performance-testing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&icon_color=5DCAA5)](https://github.com/PedroVsc9/api-performance-testing)
 
 </div>
 
