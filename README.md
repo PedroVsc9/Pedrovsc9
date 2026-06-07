@@ -19,14 +19,25 @@ $ cypress run --headless → 0 failures
 
 ## 🧪 Stack de QA
 
+**Domino hoje**
+
 | Ferramenta | Uso |
 |---|---|
-| 🎭 Playwright | Automação E2E |
 | 🌲 Cypress | Testes de interface |
-| 🌐 Selenium | Automação web |
 | 🐍 Python | Scripts e testes |
 | ⚡ APIs REST | Testes de integração |
 | 🔁 Git | Controle de versão |
+
+**Em estudo**
+
+| Ferramenta | Uso |
+|---|---|
+| 🎭 Playwright + TypeScript | Automação E2E moderna |
+| 🌐 Selenium | Automação web |
+| 📬 Postman + Newman | Testes de API |
+| ⚡ K6 | Testes de performance |
+| ⚙️ GitHub Actions | CI/CD |
+| 🗄️ SQL | Validação de dados |
 
 ---
 
