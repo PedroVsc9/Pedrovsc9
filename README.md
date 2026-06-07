@@ -17,7 +17,7 @@ $ cypress run --headless → 0 failures
 
 ---
 
-## 🧪 Stack de QA
+## Stack de QA
 
 **Domino hoje**
 
