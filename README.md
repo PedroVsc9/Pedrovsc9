@@ -10,9 +10,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&color=484f58&labelColor=161b22)
 
-```bash
-$ npx playwright test --headed
-✅ 100% Pass Rate | ⚡ 1.85x Mais Rápido que Selenium   
+
 
 </div>
 
