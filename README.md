@@ -11,8 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&color=484f58&labelColor=161b22)
 
 ```bash
-$ cypress run --headless → 0 failures
-```
+$ npx playwright test --headed
 
 </div>
 
