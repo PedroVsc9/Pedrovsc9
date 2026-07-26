@@ -12,6 +12,7 @@
 
 ```bash
 $ npx playwright test --headed
+✅ 100% Pass Rate | ⚡ 1.85x Mais Rápido que Selenium   
 
 </div>
 
