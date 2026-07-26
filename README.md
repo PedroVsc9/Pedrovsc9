@@ -21,15 +21,16 @@ $ cypress run --headless → 0 failures
 ## Stack de QA
 
 
-| Ferramenta | Uso |
-|---|---|
-| 🌲 Cypress | Testes de interface |
-| 🌐 Selenium | Automação web |
-| 🐍 Python | Scripts e testes |
-| ⚡ APIs REST | Testes de integração |
-| 📮 Postman | Testes de API |
-| 🥒 BDD | Cenários de teste comportamental |
-| 📘 Git | Controle de versão |
+| Ferramenta | Uso Principal |
+| :--- | :--- |
+| 🎭 **Playwright** | Automação Web & Interface (Unificado) |
+| 📱 **Appium** | Automação Mobile (Android & iOS) |
+| 🐍 **Python** | Scripts, Backend e IA |
+| 🔌 **APIs REST** | Testes de Integração |
+| 🟣 **Postman / Apidog** | Testes de API & Mocks Inteligentes |
+| 📝 **BDD** | Documentação Viva & Testes Comportamentais |
+| 🤖 **TestSprite** | Automação com IA (Autocorreção) |
+| 🟦 **Git** | Controle de Versão & CI/CD |
 
 
 
