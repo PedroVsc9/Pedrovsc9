@@ -3,10 +3,11 @@
 # João Pedro de Paiva Vasconcelos Neto
 ### `@PedroVsc9` · QA Analyst · Brasil 🇧🇷
 
-![QA Analyst](https://img.shields.io/badge/QA%20Analyst-062e25?style=flat-square&color=0F6E56&labelColor=062e25)
+![QA Analyst](https://img.shields.io/badge/QA%20Analyst-238636?style=flat-square)
 ![Test Automation](https://img.shields.io/badge/Test%20Automation-051d2e?style=flat-square&color=185FA5&labelColor=051d2e)
-![Python](https://img.shields.io/badge/Python-2d1d00?style=flat-square&color=854F0B&labelColor=2d1d00)
+![Python](https://img.shields.io/badge/Python-2d1d00?style=flat-square&color=2d1d00)
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-161b22?style=flat-square&color=484f58&labelColor=161b22)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&color=484f58&labelColor=161b22)
 
 ```bash
